@@ -1,7 +1,7 @@
 // go/mtl-feedback sheet id
-const SHEET_ID_MTL_FEEDBACK = '149bm0tMQlJd2cdc-C69yjWCqUWa-mt80LjuX8XF9a9U';
-const SHEET_ID_MULTI_LENS_TRACKER = '1hMCXsjCHvNTfkhe9Cz4RPDAEadwQMXmeQAmwuydu2fM';
-const SHEET_ID_LENS_DUCK = '1DU4oW30zJ8gVtnWPUKwnVHCImF5hMpx2UNVnXGmEleA';
+const SHEET_ID_MTL_FEEDBACK = '<sheet id mlt feedback>';
+const SHEET_ID_MULTI_LENS_TRACKER = '<tracker id>';
+const SHEET_ID_LENS_DUCK = '<sheet id 2>';
 
 const SHEET_NAME_MTL_FEEDBACK_FORM_RESPONSES_1 = 'Form Responses 1';
 const SHEET_NAME_COACH_FORM = 'Coach Form';
